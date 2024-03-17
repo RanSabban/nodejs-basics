@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-basics",
+  "version": "1.0.0",
+  "description": "learn basics",
+  "main": "about-time.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ms": "^2.1.3"
+  }
+}
